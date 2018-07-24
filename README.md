@@ -1,5 +1,6 @@
 # ssm
 一、项目说明
+
   开发工具：intellij idea
   服务器：tomcat7
   java运行环境：jdk1.7
